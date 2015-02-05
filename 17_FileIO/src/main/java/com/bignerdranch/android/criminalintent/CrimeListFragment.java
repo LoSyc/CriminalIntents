@@ -30,6 +30,7 @@ public class CrimeListFragment extends ListFragment {
         setHasOptionsMenu(true);
         setRetainInstance(true);
         mSubtitleVisible = false;
+
         getActivity().setTitle(R.string.crimes_title);
         mCrimes = CrimeLab.get(getActivity()).getCrimes();
         CrimeAdapter adapter = new CrimeAdapter(mCrimes);
