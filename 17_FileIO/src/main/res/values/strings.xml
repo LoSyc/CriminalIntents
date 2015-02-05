@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">CriminalIntent</string>
+  <string name="crime_title_hint">Enter a title for this crime.</string>
+  <string name="crime_title_label">Title</string> 
+  <string name="crime_details_label">Details</string> 
+  <string name="crime_solved_label">Solved?</string>
+  <string name="date_local_title">Date of crime:</string>
+  <string name="crimes_title">Crimes</string>
+  <string name="data_select">Date Select!</string>
+  <string name="happen_date">Select the time of event! </string>
+  <string name="local_date">Select the time of local! </string>
+  <string name="date_happen_title">Date of happen:</string>
+  <string name="new_crime">New Crime</string>
+  <string name="show_subtitle">Show Subtitle</string>
+  <string name="hide_subtitle">Hide Subtitle</string>
+  <string name="subtitle">If you see something, say something</string>
+  <string name="delete_crime">Delete</string>
+    <string name="empty_view">Not crime record to display</string>
+
+</resources>

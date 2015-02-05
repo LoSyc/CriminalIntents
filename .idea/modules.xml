@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08_LayoutsAndWidgets/08_LayoutsAndWidgets.iml" filepath="$PROJECT_DIR$/08_LayoutsAndWidgets/08_LayoutsAndWidgets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_ListView/09_ListView.iml" filepath="$PROJECT_DIR$/09_ListView/09_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_FragmentArguments/10_FragmentArguments.iml" filepath="$PROJECT_DIR$/10_FragmentArguments/10_FragmentArguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_ViewPager/11_ViewPager.iml" filepath="$PROJECT_DIR$/11_ViewPager/11_ViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_DateDialog/12_DateDialog.iml" filepath="$PROJECT_DIR$/12_DateDialog/12_DateDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_FileIO/17_FileIO.iml" filepath="$PROJECT_DIR$/17_FileIO/17_FileIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CriminalIntent.iml" filepath="$PROJECT_DIR$/CriminalIntent.iml" />
+    </modules>
+  </component>
+</project>
+
